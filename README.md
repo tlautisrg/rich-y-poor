@@ -11,4 +11,11 @@ Rich and Poor → It is a project where people with a lot of money, or who simpl
 
 This would be done through a free application available to everyone. It would be like a social network where people post what they need and others donate it to them. All of this would work by creating an account, registering, accepting terms and conditions, and filling in personal information.
 
+collaborators:
+Ariel Ruizdiaz - avruizdiaz@escuelasproa.edu.ar
+Iara Pablos - ipablos@escuelasproa.edu.ar
+Ignacio Blazquez - iblazquez@escuelasproa.edu.ar
+Lautaro Breininger - lbreininger@escuelasproa.edu.ar
+Leonardo Monnet - lmonnetgomez@escuelasproa.edu.ar
+
 Rich and Poor helps wealthy people feel good about helping others, and helps poor people receive things they never thought they would have.
