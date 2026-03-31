@@ -15,6 +15,9 @@ Rich and Poor → It is a project where people with a lot of money, or who simpl
 
 This would be done through a free application available to everyone. It would be like a social network where people post what they need and others donate it to them. All of this would work by creating an account, registering, accepting terms and conditions, and filling in personal information.
 
+<img width="292" height="173" alt="image" src="https://github.com/user-attachments/assets/3cccce44-ead7-4704-8b43-9a0b2f06e898" />
+
+
 collaborators:
 
 Ariel Ruizdiaz - avruizdiaz@escuelasproa.edu.ar
