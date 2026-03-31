@@ -1,4 +1,4 @@
-# rich-and-poor
+## rich-and-poor
 rich and poor
 
 Ricos y Pobres → Es un proyecto donde personas con mucha plata o que simplemente les sobra y no sabe qué hacer con ella, mientras que personas sin estabilidad económica luchan por tener una vida estable. Este proyecto lo que hace es recibir mensajes de gente pobre, como por ejemplo: “Necesito una caja llena de comida”, “Necesito pagar la escuela de mi hijo”, “Necesito plata para…”. Siempre con una buena argumentación y luego gente rica les puede hacer llegar esas cosas o simplemente dinero.
