@@ -8,7 +8,7 @@ Esto se haría a través de una aplicación gratuita para todo el mundo, sería 
 Ricos y pobres ayuda a personas ricas a sentirse bien ayudando a otros, y a personas pobres recibir cosas que nunca pensaron tener.
 
 
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/cf84e2bc-6ae7-4bbf-b6fc-221d7da808ba" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9b677e19-73d0-4173-9809-720029a12831" />
 
 
 
@@ -16,8 +16,7 @@ Rich and Poor → It is a project where people with a lot of money, or who simpl
 
 This would be done through a free application available to everyone. It would be like a social network where people post what they need and others donate it to them. All of this would work by creating an account, registering, accepting terms and conditions, and filling in personal information.
 
-<img width="278" height="181" alt="image" src="https://github.com/user-attachments/assets/424f96f6-ab3d-472e-bab9-54ed6f13a40e" />
-
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/9f65b218-20c6-4d8f-bd0b-9b1ce15e1f3e" />
 
 collaborators:
 
