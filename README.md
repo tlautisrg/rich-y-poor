@@ -4,16 +4,24 @@
 - Rich and Poor → It is a project where people with a lot of money, or who simply have extra and don’t know what to do with it, can help people without financial stability who struggle to have a stable life. This project receives messages from poor people, for example: “I need a box full of food,” “I need to pay for my child’s school,” “I need money for…”. Always with a good explanation, and then wealthy people can send them those things or simply money.
 - This would be done through a free application available to everyone. It would be like a social network where people post what they need and others donate it to them. All of this would work by creating an account, registering, accepting terms and conditions, and filling in personal information.
 
+---
+---
+
 >[!CAUTION]
 >## Sistem requeriments
 >- Web navegation
 >- Only windows
 >- 1 megabite of RAM
 
+---
+---
+
 >[!NOTE]
 >## Current status
 >- Finished
 
+---
+---
 
 >## Instalation
 >No instaltion required must create an account by linking your :
@@ -22,6 +30,40 @@
 >- Windows account
 >- facebook account /meta
 >- Google account
+
+---
+---
+
+
+>## Tecnologies used:
+>- HTML
+>- CSS
+>- JS
+>- PYTHON
+>- SQL
+>- MARKDONW
+
+---
+---
+
+>[!WARNING]
+>## Known issues:
+>- There is a problem that makes it possible for your money to desappear
+
+---
+---
+
+>## Frequently asked questions:
+>- Wheres does my money go?
+>  __To... somewhere?__
+>- Is this a waste of time?
+>  __Yes__ 
+>- Did any millionaires donate to this platform?
+> __No... not that we know of.__
+
+
+
+## [Contac us via discord](https://discord.gg/c4USctD2)
 
 
 Rich and Poor helps wealthy people feel good about helping others, and helps poor people receive things they never thought they would have.
@@ -39,7 +81,7 @@ Rich and Poor → It is a project where people with a lot of money, or who simpl
 This would be done through a free application available to everyone. It would be like a social network where people post what they need and others donate it to them. All of this would work by creating an account, registering, accepting terms and conditions, and filling in personal information.
 
 ## 📸 Capturas 
-<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/9f65b218-20c6-4d8f-bd0b-9b1ce15e1f3e" />
+<img  width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/9f65b218-20c6-4d8f-bd0b-9b1ce15e1f3e" />
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9b677e19-73d0-4173-9809-720029a12831" />
 
 ## 🤝 Contribuciones
