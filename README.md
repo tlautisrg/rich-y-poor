@@ -63,7 +63,7 @@
 
 
 
-## [Contac us via discord](https://discord.gg/c4USctD2)
+## [Contac us via discord](https://discord.gg/c4USct2)
 
 
 Rich and Poor helps wealthy people feel good about helping others, and helps poor people receive things they never thought they would have.
